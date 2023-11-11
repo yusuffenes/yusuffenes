@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf Enes</h1>
 <h3 align="center">Bilgisayar Mühendisliği 2. sınıf öğrencisiyim kendimi geliştirmeye çalşıyorum</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yusuffenes&label=Profile%20views&color=0e75b6&style=flat" alt="yusuffenes" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,3 +15,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusuffenes&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="yusuffenes" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusuffenes&show_icons=true&theme=dark&locale=en" alt="yusuffenes" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yusuffenes&label=Profile%20views&color=0e75b6&style=flat" alt="yusuffenes" /> </p>
