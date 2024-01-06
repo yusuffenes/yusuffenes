@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf Enes</h1>
-<h3 align="center">Bilgisayar Mühendisliği 2. sınıf öğrencisiyim kendimi geliştirmeye çalşıyorum</h3>
+
 
 
 
