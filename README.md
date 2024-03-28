@@ -29,9 +29,3 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuffenes&layout=compact&theme=nightowl" alt=yusuffenes />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=yusuffenes&show_icons=true&locale=en&theme=nightowl" alt="yusuffenes" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yusuffenes&theme=nightowl" alt="yusuffenes" /></p>
-<div align="center">
-<a href="https://github.com/yusuffenes">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yusuffenes&theme=20877" height="180em" />
-</div>
