@@ -1,7 +1,9 @@
 <h1 align="center">Merhaba Ben Yusuf Enes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusuffenes&label=Profile%20views&color=0e75b6&style=flat" alt="yusuffenes" /> </p>
 
-- 🌱 I’m currently learning **PyTorch, Machine Learning Algorithms**
+* 🌍  I'm based in Türkiye
+* ✉️  You can contact me at [budaky4343@gmail.com](mailto:budaky4343@gmail.com)
+* 🧠  I'm learning Machine Learning Algorithms and PyTorch### Skills
 
 
 
