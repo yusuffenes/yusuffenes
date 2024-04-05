@@ -29,3 +29,9 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuffenes&layout=compact&theme=nightowl" alt=yusuffenes />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=yusuffenes&show_icons=true&locale=en&theme=nightowl" alt="yusuffenes" /></p>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
