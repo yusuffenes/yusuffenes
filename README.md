@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yusuf Enes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusuffenes&label=Profile%20views&color=0e75b6&style=flat" alt="yusuffenes" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusuffenes&theme=" alt="yusuffenes" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **budaky4343@gmail.com**
