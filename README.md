@@ -77,9 +77,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=yusuffenes&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/yusuffenes/yusuffenes/output/snake.svg" alt="Snake animation" />
-
-###
