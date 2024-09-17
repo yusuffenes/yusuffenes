@@ -16,21 +16,11 @@
 
 ###
 
-<h2 align="center">Profile Viewers</h2>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/yusuffenes/count.svg?"  />
-</div>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">- 📚 I'm trying to learn about AI<br>- 👨‍💻 All of my projects are available at</p>
+<p align="left">- 📚 I'm trying to learn about AI<br>- 👨‍💻 All of my projects are available at (here)[https://github.com/yusuffenes?tab=repositories]</p> 
 
 ###
 
