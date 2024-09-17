@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- 📚 I'm trying to learn about AI<br>- 👨‍💻 All of my projects are available at [here](https://github.com/yusuffenes?tab=repositories)</p> 
+<p align="left">- 📚 I'm trying to learn about AI<br>- 👨‍💻 All of my projects are available at <a href="https://github.com/yusuffenes?tab=repositories">here</a></p> 
 
 ###
 
