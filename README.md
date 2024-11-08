@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="259" src="https://i.imgur.com/7O0wfOE.gif"  />
-</div>
-https://i.imgur.com/o8yUzFP.gif
 
 # Merhaba, Ben Yusuf Enes 👋
 
@@ -48,3 +44,8 @@ Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Veri bilimi ve yapay zeka a
   \__, |\__,_|___/\__,_|_| |_|  \___|_| |_|\___||___/
   |___/                                              
 ```
+
+<div align="center">
+  <img height="259" src="https://i.imgur.com/7O0wfOE.gif"  />
+</div>
+
