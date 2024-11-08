@@ -5,28 +5,6 @@
 
 Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Veri bilimi ve yapay zeka alanlarında kendimi geliştirmeye çalışıyorum.
 
-## 🔭 Şu Anda...
-- Necmettin Erbakan Üniversitesi'nde Bilgisayar Mühendisliği okuyorum
-- Makine öğrenmesi ve derin öğrenme projelerine odaklanıyorum
-- Yeni teknolojileri öğrenmeye açığım
-
-## 🚀 Projeler
-
-### SUPERSPACE App
-- NASA Space Apps Challenge 2024'te 3.lük ödülü
-- Özelleştirilmiş ChatGPT modülü "SpaceBot"
-- AI destekli metin özetleme özelliği
-- Yapay zeka özellikleri ve veri toplama sorumlusu
-
-### RentACar
-- Angular ve TypeScript ile frontend
-- .NET ile backend
-- SQL veritabanı yönetimi
-
-### Yapay Zeka Projeleri
-- Kedi/Köpek Sınıflandırma (CNN - %96 doğruluk)
-- Araba Fiyat Tahmini (ML - %90 doğruluk)
-
 ## 💻 Teknolojiler
 
 ### Programlama Dilleri
@@ -48,13 +26,13 @@ Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Veri bilimi ve yapay zeka a
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ## 📫 İletişim
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/your-profile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:yusukenes@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yusufenesbudak)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/yusufenes)
+
 
 ## 📊 GitHub İstatistikleri
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
 
 ---
-⭐️ [yusukenes@gmail.com](mailto:yusukenes@gmail.com)
+⭐️ [yusukenes@gmail.com](mailto:yusufenes@duck.com)
