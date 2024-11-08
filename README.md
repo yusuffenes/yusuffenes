@@ -1,6 +1,7 @@
 <div align="center">
   <img height="150" src="https://i.imgur.com/o8yUzFP.gif"  />
 </div>
+
 # Merhaba, Ben Yusuf Enes 👋
 
 Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Veri bilimi ve yapay zeka alanlarında kendimi geliştirmeye çalışıyorum.
@@ -35,4 +36,4 @@ Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Veri bilimi ve yapay zeka a
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
 
 ---
-⭐️ [yusukenes@gmail.com](mailto:yusufenes@duck.com)
+⭐️ [yusufenes@duck.com](mailto:yusufenes@duck.com)
