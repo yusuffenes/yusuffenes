@@ -30,7 +30,7 @@ Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Veri bilimi ve yapay zeka a
 
 ## 📊 GitHub İstatistikleri
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yusuffenes&show_icons=true&theme=dark)
 
 ---
 ⭐️ [yusufenes@duck.com](mailto:yusufenes@duck.com)
