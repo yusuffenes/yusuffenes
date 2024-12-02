@@ -1,7 +1,6 @@
 
 # Merhaba, Ben Yusuf Enes 👋
 
-Bilgisayar Mühendisliği 3. sınıf öğrencisiyim. Veri bilimi ve yapay zeka alanlarında kendimi geliştirmeye çalışıyorum.
 
 ## 💻 Teknolojiler
 
