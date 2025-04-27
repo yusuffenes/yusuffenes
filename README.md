@@ -34,7 +34,4 @@
 ---
 ⭐️ [yusufenes@duck.com](mailto:yusufenes@duck.com)
 
-<div align="center">
-  <img height="259" src="https://i.imgur.com/7O0wfOE.gif"  />
-</div>
 
