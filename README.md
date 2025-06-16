@@ -21,7 +21,6 @@
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
 ## 📫 İletişim
-[yusufenes@duck.com](mailto:yusufenes@duck.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yusufenesbudak)
 
 
@@ -30,6 +29,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yusuffenes&show_icons=true&theme=dark)
 
 ---
-⭐️
+⭐️ [yusufenes@duck.com](mailto:yusufenes@duck.com)
 
 
